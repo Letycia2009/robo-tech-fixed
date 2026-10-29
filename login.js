@@ -535,6 +535,5 @@ backToStart.addEventListener(
 
         window.location.href =
             "index.html";
-
     }
 );

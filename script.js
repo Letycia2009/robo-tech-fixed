@@ -521,8 +521,5 @@ sessionStorage.removeItem("schoolGameJustLoggedIn");
 
 if (justLoggedIn) {
     checkLoggedUser();
-} else {
-    localStorage.removeItem("schoolGameCurrentUser");
-    window.location.replace("login.html");
-}
+} 
 
