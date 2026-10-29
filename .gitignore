@@ -1,0 +1,8 @@
+# Ambientes e Segredos
+.env
+.env.local
+.env.*.local
+
+# Ignorar logs de erro
+*.log
+npm-debug.log*
